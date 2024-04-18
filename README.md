@@ -6,7 +6,7 @@
 - 코드 공유 :https://dacon.io/competitions/official/236170/codeshare/9347
 
 ## 2. 대구 교통사고 피해 예측 AI 경진대회
-- [코드 repo 이동]()
+- [코드 repo 이동](https://github.com/heewonp/dacon/tree/master/daegu)
 
 ## 3. HD현대 AI Challenge
 - 코드 공유 : https://dacon.io/competitions/official/236158/codeshare/9154?page=1&dtype=recent
